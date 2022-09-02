@@ -1,2 +1,1 @@
-# The Default Planck Layout
-
+# Custom Planck 2u2x Layout
